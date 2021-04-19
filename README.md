@@ -1,5 +1,12 @@
 # vanilla-template
 Tamplate for frontend projects
 
+1. Replace `<repo_name>`
+    - [DEMO LINK](https://anastasiiaaliinyk.github.io/<repo_name>/)
+
 ##Local development
-1. Clone project `git clone <repo_url>`
+###Installing
+- Fork and clone this repository
+- Run npm install in your terminal
+- Run npm start
+
